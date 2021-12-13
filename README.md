@@ -6,6 +6,9 @@ For illustrations of creating, running and removing snippets, refer to this 2-mi
 
 
 ## How does it work
+
+Demonstration video: https://youtu.be/sFSIstmPH3s
+
 1. Select an element on the page by pressing Ctrl+Shift+C or Open up the developer console by pressing F12 or Ctrl+Shift+J and find the element that you are trying to move around.
 2. After you locate the element, copy its selector by right clicking on it (under the elements tab of developer tools window)
 
@@ -74,4 +77,3 @@ if(userInput !== null) {
 }
 
 ```
-
