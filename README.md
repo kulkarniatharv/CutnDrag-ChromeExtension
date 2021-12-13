@@ -9,6 +9,7 @@ For illustrations of creating, running and removing snippets, refer to this 2-mi
 
 Demonstration video: https://youtu.be/sFSIstmPH3s
 
+1. Create the snippet and paste the JS code given below. To create a snippet, check the guide by Chrome Developers shared above.
 1. Select an element on the page by pressing Ctrl+Shift+C or Open up the developer console by pressing F12 or Ctrl+Shift+J and find the element that you are trying to move around.
 2. After you locate the element, copy its selector by right clicking on it (under the elements tab of developer tools window)
 
