@@ -8,17 +8,20 @@ For illustrations of creating, running and removing snippets, refer to this 2-mi
 ## How does it work
 1. Select an element on the page by pressing Ctrl+Shift+C or Open up the developer console by pressing F12 or Ctrl+Shift+J and find the element that you are trying to move around.
 2. After you locate the element, copy its selector by right clicking on it (under the elements tab of developer tools window)
+
 ![image](https://user-images.githubusercontent.com/15829308/145865863-65d4d0e1-46de-4c7c-8917-40d14b94be4a.png)
 
 3. Run the snippet by going to sources tab of developer tools window.
+
 ![image](https://user-images.githubusercontent.com/15829308/145865781-1c058cb1-437a-4ec7-a3df-3826b62fdf8d.png)
 
 4. Paste the selector in the prompt window and press enter.
+
 ![image](https://user-images.githubusercontent.com/15829308/145865941-d0ae8351-143c-4b8e-8b95-dd5ca91bd312.png)
 
 5. Now you can move around the element on the website. 
 
-To restore the state of the website, reload it.
+**To restore the state of the website, reload it.**
 
 
 ## JS code
