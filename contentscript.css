@@ -1,0 +1,13 @@
+.crx_mouse_visited {
+    background-color: #bcd5eb !important;
+    outline: 1px solid red !important;
+}
+
+.disable-text-select {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
